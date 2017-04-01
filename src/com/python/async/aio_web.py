@@ -1,15 +1,10 @@
 '''
 Created on 2016年8月11日
 
-@author: Administrator
-'''
+@author: Leeo
 
-__author__ = 'Michael Liao'
-
-'''
 async web application.
 '''
-
 import asyncio
 
 from aiohttp import web
